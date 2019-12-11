@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.tittle-brand {
+    font-family: 'Bebas Neue', cursive;
+    color: #e15361; 
+    width: auto; 
+}
+
+.tittle-brand span {
+    color: #666666;
+}
+
+.custom-focus:focus {
+    outline: none; 
+    border:1px solid #e04747; 
+    box-shadow: 0 0 10px #d14b4b;
+}
+
+.btn {
+    color: #666666;
+}
+
