@@ -1,37 +1,37 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.tittle-brand{
+.tittle-brand {
     font-family: 'Bebas Neue', cursive;
     color: #666666; 
     width: auto; 
 }
 
-.tittle-brand span{
+.tittle-brand span {
     color: #e15361;
 }
 
-.navbar-brand{
+.navbar-brand {
     margin: 0.5rem;
 }
 
-.navbar-brand span{
+.navbar-brand span {
     color:#e15361;
     font-family: 'Bebas Neue', cursive;
 }
 
-.custom-focus:focus{
+.custom-focus:focus {
     outline: none; 
     border:1px solid #e04747; 
     box-shadow: 0 0 10px #d14b4b;
 }
 
-.btn{
+.btn {
     color: #666666;
 }
 
-h5{
+h5 {
     padding-top: 1rem;
 }
