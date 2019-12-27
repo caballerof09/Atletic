@@ -24,9 +24,9 @@
 
 .custom-focus:focus {
     outline: none; 
-    border:1px solid #e04747; 
-    box-shadow: 0 0 10px #d14b4b;
-}
+    border:1px solid #666666; 
+    box-shadow: 0 0 10px #666666;
+} 
 
 .btn {
     background-color: #666666;
