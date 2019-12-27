@@ -3,13 +3,13 @@
     padding: 0;
 }
 
-.tittle-brand {
+.header-tittle-brand {
     font-family: 'Bebas Neue', cursive;
     color: #666666; 
     width: auto; 
 }
 
-.tittle-brand span {
+.header-tittle-brand span {
     color: #e15361;
 }
 
@@ -29,9 +29,9 @@
 }
 
 .btn {
-    color: #666666;
+    background-color: #666666;
 }
 
-h5 {
+.text-header {
     padding-top: 1rem;
 }
