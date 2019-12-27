@@ -32,6 +32,12 @@
     background-color: #666666;
 }
 
+#navbardrop {
+    outline: none; 
+    border: none; 
+    box-shadow: none;
+}
+
 .text-header {
     padding-top: 1rem;
 }
