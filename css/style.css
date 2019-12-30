@@ -3,15 +3,20 @@
     padding: 0;
 }
 
-.tittle-brand {
+.header-tittle-brand {
     font-family: 'Bebas Neue', cursive;
     color: #666666; 
     width: auto; 
 }
 
-.tittle-brand span {
+.header-tittle-brand span {
     color: #e15361;
 }
+
+.text-header {
+    padding-top: 1rem;
+}
+
 
 .navbar-brand {
     margin: 0.5rem;
@@ -21,17 +26,19 @@
     color:#e15361;
     font-family: 'Bebas Neue', cursive;
 }
-
+/* search form focus */
 .custom-focus:focus {
     outline: none; 
-    border:1px solid #e04747; 
-    box-shadow: 0 0 10px #d14b4b;
-}
-
+    border:1px solid #666666; 
+    box-shadow: 0 0 10px #666666;
+} 
+/* search button */
 .btn {
-    color: #666666;
+    background-color: #666666;
 }
 
-h5 {
-    padding-top: 1rem;
+#navbardrop {
+    outline: none; 
+    border: none; 
+    box-shadow: none;
 }
